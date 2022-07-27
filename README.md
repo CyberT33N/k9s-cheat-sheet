@@ -102,6 +102,9 @@ k9s
 ```bash
 ~/.k9s/config.yml
 k9s.logger.sinceSeconds=-1
+
+# Increase terminal buffer size
+buffer=100000
 ```
 
 
