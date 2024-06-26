@@ -24,6 +24,7 @@ Get App Logs
 
 
 <br><br>
+<br><br>
 
 ## Install/Update
 - Neuste Version hier herunterladen:
@@ -91,7 +92,58 @@ k9s
 
 
 
-<br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+________________________________________
+________________________________________
+<br><br>
+<br><br>
+
+# Events
+- Use `:events`
+- Usefully for debugging if something wents wrong and the container logs are not helping
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+________________________________________
+________________________________________
+<br><br>
+<br><br>
 
 ## Logs
 
