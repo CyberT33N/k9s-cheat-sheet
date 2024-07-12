@@ -30,10 +30,14 @@ Get App Logs
 - Neuste Version hier herunterladen:
   - https://github.com/derailed/k9s/releases
 
-Für unsere Linux Fedora Notebooks z.b.:
--  k9s_Linux_x86_64.tar.gz
+You can verify your architecture:
+```shell
+lscpu
+```
+- x86_64 = amd64
+- https://github.com/derailed/k9s/releases/download/v0.32.5/k9s_linux_amd64.deb
 
-Das Archiv entpacken und die k9s Datei nach ~/bin/k9s verschieben und die alte ersetzen.
+
 
 
 
